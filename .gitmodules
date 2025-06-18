@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/indi06-star/Backend.git
+[submodule "Iliso-Tracking-System"]
+	path = Iliso-Tracking-System
+	url = https://github.com/keanan557/Iliso-Tracking-System.git
